@@ -1,0 +1,35 @@
+{
+    "name": "Harish G",
+    "age": 25,
+    "email": "itsharishg@gmail.com",
+    "phone": "+1234567890",
+    "address": "456 Main Street, Tamil Nadu, India",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "Tech University",
+        "graduation_year": 2022
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "Tech Solutions Inc.",
+        "start_date": "2020",
+        "end_date": "Present",
+        "responsibilities": [
+          "Develop and maintain web applications.",
+          "Collaborate with cross-functional teams for project delivery.",
+          "Participate in code reviews and contribute to software architecture decisions."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "HTML/CSS",
+      "Git"
+    ]
+  }
+  
